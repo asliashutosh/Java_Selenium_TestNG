@@ -18,7 +18,7 @@ public class ConfigReader {
     private static void loadProperties() {
         try {
             // Path to the properties file
-            String filePath = "src/test/resources/config.properties";
+            String filePath = "src/main/resources/config.properties";
 
             // Create a FileInputStream to read the file
             FileInputStream input = new FileInputStream(filePath);
