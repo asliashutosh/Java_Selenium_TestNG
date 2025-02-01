@@ -101,8 +101,8 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## 📩 Contact
 For any questions or feedback, please contact:
-- **Your Name:** [ashutoshsingh042@gmail.com](mailto:your.email@example.com)
-- **GitHub:** [asliashutosh](https://github.com/your-username)
+- **Your Name:** [ashutoshsingh042@gmail.com](mailto:ashutoshsingh042@gmail.com)
+- **GitHub:** [asliashutosh](https://github.com/asliashutosh)
 
 ## 🎖️ Acknowledgments
 - **[Selenium](https://www.selenium.dev/)** for browser automation.
