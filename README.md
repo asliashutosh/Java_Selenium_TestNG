@@ -39,7 +39,7 @@ src
 ### 1️⃣ Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/asliashutosh/Java_Selenium_TestNG.git)
+git clone https://github.com/asliashutosh/Java_Selenium_TestNG.git
 cd your-repo-name
 ```
 
